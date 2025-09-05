@@ -67,7 +67,7 @@ Crear soluciones tecnológicas que no solo funcionen, sino que **impacten positi
 <div align="center">
 
 ### 🚀 **Frontend Universe**
-<img src="https://skillicons.dev/icons?i=react,dart,vue,tailwind,html,css,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,dart,kotlin,tailwind,html,css,figma&theme=dark" />
 
 ### ⚙️ **Backend Fortress** 
 <img src="https://skillicons.dev/icons?i=typescript,python,django,flask,java,spring,postgres,mysql&theme=dark" />
