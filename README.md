@@ -20,7 +20,6 @@
 <p>
 <img src="https://img.shields.io/badge/🎯_Enfoque-Fullstack_Security-00F5FF?style=for-the-badge&labelColor=0a0a0a"/>
 <img src="https://img.shields.io/badge/💡_Estado-Siempre_Aprendiendo-FF6B6B?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/🔥_Nivel-Pro_Active-4ECDC4?style=for-the-badge&labelColor=0a0a0a"/>
 </p>
 
 ![GitHub Followers](https://img.shields.io/github/followers/Wissen01720?color=00F5FF&style=for-the-badge&label=🚀+SEGUIDORES&logo=github&labelColor=0a0a0a)
