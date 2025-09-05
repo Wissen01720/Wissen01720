@@ -12,7 +12,7 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=🌌+BIENVENIDO+AL+FUTURO;Desarrollador+Fullstack;🔐+Especialista+en+Ciberseguridad;⚡+Innovador+Tecnológico)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=🌌+BIENVENIDO+AL+FUTURO;Desarrollador+Fullstack;🔐+Especialista+en+Ciberseguridad)
 
 <img width="50%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -20,6 +20,7 @@
 <p>
 <img src="https://img.shields.io/badge/🎯_Enfoque-Fullstack_Security-00F5FF?style=for-the-badge&labelColor=0a0a0a"/>
 <img src="https://img.shields.io/badge/💡_Estado-Siempre_Aprendiendo-FF6B6B?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/🔥_Nivel-Pro_Active-4ECDC4?style=for-the-badge&labelColor=0a0a0a"/>
 </p>
 
 ![GitHub Followers](https://img.shields.io/github/followers/Wissen01720?color=00F5FF&style=for-the-badge&label=🚀+SEGUIDORES&logo=github&labelColor=0a0a0a)
