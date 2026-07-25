@@ -1,229 +1,112 @@
-# 🚀 Edgard Patiño - Software Architect & Cybersecurity Enthusiast
-
 <div align="center">
 
-<!-- Hero Section con efecto Matrix -->
 ```
-████████╗██╗  ██╗███████╗    ██████╗ ██╗   ██╗██╗██╗     ██████╗ ███████╗██████╗ 
-╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██║   ██║██║██║     ██╔══██╗██╔════╝██╔══██╗
-   ██║   ███████║█████╗      ██████╔╝██║   ██║██║██║     ██║  ██║█████╗  ██████╔╝
-   ██║   ██╔══██║██╔══╝      ██╔══██╗██║   ██║██║██║     ██║  ██║██╔══╝  ██╔══██╗
-   ██║   ██║  ██║███████╗    ██████╔╝╚██████╔╝██║███████╗██████╔╝███████╗██║  ██║
-   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+┌─────────────────────────────────────────────────┐
+│  edgard@security:~$ whoami                      │
+│  > Cybersecurity Student & SOC Analyst (Junior) │
+│  edgard@security:~$ █                           │
+└─────────────────────────────────────────────────┘
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=🌌+BIENVENIDO+AL+FUTURO;Desarrollador+Fullstack;🔐+Especialista+en+Ciberseguridad)
+# Edgard Patiño
+### Systems Engineering Student → Cybersecurity & Blue Team
 
-<img width="50%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-<!-- Badges dinámicos y llamativos -->
-<p>
-<img src="https://img.shields.io/badge/🎯_Enfoque-Fullstack_Security-00F5FF?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/💡_Estado-Siempre_Aprendiendo-FF6B6B?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/🔥_Nivel-Pro_Active-4ECDC4?style=for-the-badge&labelColor=0a0a0a"/>
-</p>
-
-![GitHub Followers](https://img.shields.io/github/followers/Wissen01720?color=00F5FF&style=for-the-badge&label=🚀+SEGUIDORES&logo=github&labelColor=0a0a0a)
-![GitHub Stars](https://img.shields.io/github/stars/Wissen01720?color=FF6B6B&style=for-the-badge&label=⭐+ESTRELLAS&labelColor=0a0a0a)
-![Visitas](https://komarev.com/ghpvc/?username=Wissen01720&color=4ECDC4&style=for-the-badge&label=👁️+VISITANTES&labelColor=0a0a0a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgard_Patiño-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/edgard-leonardo-patiño-largo-a274072a4)
+[![Email](https://img.shields.io/badge/Email-edgardlpl@hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edgardlpl@hotmail.com)
+[![HTB](https://img.shields.io/badge/HackTheBox-Academy-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://academy.hackthebox.com)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Junior_SOC_/_Blue_Team-brightgreen?style=flat-square)
 
 </div>
 
 ---
 
-<div align="center">
+## $ about --me
 
-## 🎭 **MI FILOSOFÍA DE CÓDIGO**
+Systems Engineering student at Universidad Santo Tomás (Colombia), transitioning into cybersecurity with a background in secure software development. I'm building toward a **Blue Team / SOC analyst role** as my entry point into the industry, with a long-term focus on offensive security.
 
-*"El código no es solo instrucciones para máquinas, es poesía digital que resuelve problemas reales"*
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### 🧠 **¿Quién soy?**
-- 🎓 **Estudiante de Sistemas** - Siempre en evolución
-- 💻 **Fullstack Developer** - Frontend + Backend + Mobile
-- 🛡️ **Security Enthusiast** - Protegiendo el mundo digital
-- 🚀 **Problem Solver** - Convertir ideas en realidad
-- 🌌 **Tech Visionary** - Construyendo el futuro
-
-</td>
-<td width="50%">
-
-### 🎯 **Mi Misión**
-Crear soluciones tecnológicas que no solo funcionen, sino que **impacten positivamente** en la vida de las personas. Combinando **seguridad, innovación y diseño** para construir un futuro digital más seguro.
-
-</td>
-</tr>
-</table>
+- 🎓 Graduating **March 2027** — Universidad Santo Tomás, Tunja
+- 🛡️ **Google Cybersecurity Certificate** — Jul 2026
+- 🏆 **Finalist** at Code Fest Ad Astra 2024 — AES-256 encryption on NVIDIA Jetson Nano
+- 🧪 Actively training on **Hack The Box Academy** & **CyberDefenders**
+- 📍 Tunja, Colombia — open to remote opportunities
 
 ---
 
-## ⚡ **ARSENAL TECNOLÓGICO**
+## $ skills --list
 
-<div align="center">
+**Security Tools**
 
-### 🚀 **Frontend Universe**
-<img src="https://skillicons.dev/icons?i=react,dart,kotlin,tailwind,html,css,figma&theme=dark" />
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=linux&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-black?style=flat-square&logo=linux&logoColor=white)
+![WhatWeb](https://img.shields.io/badge/WhatWeb-333?style=flat-square&logo=linux&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-8A2BE2?style=flat-square&logo=linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Tcpdump](https://img.shields.io/badge/Tcpdump-black?style=flat-square&logo=linux&logoColor=white)
 
-### ⚙️ **Backend Fortress** 
-<img src="https://skillicons.dev/icons?i=typescript,python,django,flask,java,spring,postgres,mysql&theme=dark" />
+**Concepts & Practices**
 
-### 🛠️ **DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,androidstudio,idea,supabase,vercel&theme=dark" />
+`Vulnerability Assessment` `Input Sanitization` `SIEM` `DKIM / SPF / DMARC` `AES-256 Encryption` `Secure Coding` `Network Reconnaissance`
 
-### 🔐 **Security Arsenal**
-<img src="https://img.shields.io/badge/🔒_Encryption-AES_RSA-00F5FF?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/🛡️_Security-Penetration_Testing-FF6B6B?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/🔍_Analysis-Vulnerability_Assessment-4ECDC4?style=for-the-badge&labelColor=0a0a0a"/>
+**Stack**
 
-</div>
-
----
-
-## 🌟 **PROYECTOS ÉPICOS**
-
-<details>
-<summary><b>🌌 Sistema Solar Interactivo 3D - Proyecto NASA Hackathon</b></summary>
-
-<br>
-
-**Stack:** React + Three.js + GSAP + WebGL
-- 🪐 **Planetas realistas** con texturas 8K y rotación física
-- 🚀 **Navegación espacial** fluida con controles intuitivos  
-- 📱 **Responsive design** adaptado a todos los dispositivos
-- ⚡ **Optimización extrema** para rendimiento superior
-
-**Impacto:** Reconocido como proyecto innovador en competencia internacional
-
-</details>
-
-<details>
-<summary><b>🔐 CryptoGuard - Sistema de Encriptación de Imágenes</b></summary>
-
-<br>
-
-**Stack:** C++ + OpenSSL + AES-256
-- 🔒 **Encriptación avanzada** de imágenes con algoritmos AES y RSA
-- 🗝️ **Generación dinámica** de llaves criptográficas
-- 🖼️ **Protección multimedia** con verificación PEM
-- 🛡️ **Seguridad industrial** para contenido visual sensible
-
-**Impacto:** Proyecto finalista en Code Fest Ad Astra 2024
-
-</details>
-
-<details>
-<summary><b>🛡️ CiberPaz Educational Platform</b></summary>
-
-<br>
-
-**Stack:** React + Node.js + Chrome Extensions API
-- 📚 **Educación interactiva** en ciberseguridad
-- 🎮 **Simulaciones realistas** de ataques y defensas
-- 📊 **Analytics avanzados** de progreso de aprendizaje
-- 🌐 **Extensión del navegador** para protección en tiempo real
-
-**Impacto:** Ganador del Hackathon Nacional de Ciberseguridad
-
-</details>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📊 **MÉTRICAS DE RENDIMIENTO**
+## $ projects --show
 
-<div align="center">
+### 🔐 CryptoGuard — Satellite Image Encryption
+> Finalist project — Code Fest Ad Astra 2024
+> Fuerza Aeroespacial Colombiana & Universidad de Los Andes
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wissen01720&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" />
+AES-256 encryption system for satellite imagery with dynamic key generation, deployed on **NVIDIA Jetson Nano** embedded hardware.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissen01720&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=FFFFFF&bg_color=0D1117&layout=compact&langs_count=8" />
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wissen01720&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF6B6B&fire=4ECDC4&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
+`C++` `OpenSSL` `AES-256` `Embedded Systems`
 
 ---
 
-## 🎨 **ACTIVITY HEATMAP**
+### 🔍 Security Assessment — Web Platform
+> Reconnaissance & vulnerability assessment on a live web platform
 
-<div align="center">
+Full recon cycle using industry-standard tools: port scanning, service enumeration, web fingerprinting, and vulnerability detection.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wissen01720&theme=github-compact&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF6B6B&point=4ECDC4&area=true&hide_title=false" />
-
-</div>
-
----
-
-## 🏆 **HITOS Y RECONOCIMIENTOS**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🏅_Finalista-Code_Fest_Ad_Astra_2024-FFD700?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/🏅_CiberPaz-National_Champion-FF6B6B?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/🎯_Projects-15+_Completed-4ECDC4?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/💻_Code-10000+_Lines-00F5FF?style=for-the-badge&labelColor=0a0a0a"/>
-
-</div>
+`Nmap + NSE` `Nikto` `WhatWeb` `Nuclei`
 
 ---
 
-## 📚 **EN CONSTANTE EVOLUCIÓN**
+### 🧪 Security Labs *(in progress)*
+> Personal training repository — HTB Academy & CyberDefenders
 
-<div align="center">
+Writeups and documented solutions from active cybersecurity training. Updated regularly.
 
-### 🔥 **Fortaleciendo Habilidades**
-<img src="https://img.shields.io/badge/🛡️_Cybersecurity-Ethical_Hacking_OSINT-00F5FF?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/🎨_Frontend-Advanced_React_UX/UI-FF6B6B?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/🔒_Security-Cryptography_Forensics-4ECDC4?style=for-the-badge&labelColor=0a0a0a"/>
-
-### 💪 **Perfeccionando**
-<img src="https://img.shields.io/badge/📱_Mobile-React_Native_Security-Orange?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/⚡_Performance-Node.js_Optimization-Green?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/🎨_3D-Three.js_WebGL_Immersive-Purple?style=for-the-badge&labelColor=0a0a0a"/>
-
-</div>
+`HTB Academy` `CyberDefenders` `Linux` `Python`
 
 ---
 
-## 🌐 **CONECTA CONMIGO**
+## $ certifications --list
 
-<div align="center">
+| Certificate | Issuer | Date |
+|---|---|---|
+| Google Cybersecurity Certificate | Google / Coursera | Jul 2026 |
+| Introduction to Ethical Hacking | Great Learning | Oct 2024 |
+| Scrum Fundamentals Certified | VMEdu | Feb 2025 |
 
-<a href="https://www.linkedin.com/in/edgard-leonardo-patiño-largo-a274072a4" target="_blank">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/>
-</a>
+---
 
-<a href="mailto:edgardlpl@hotmail.com">
-<img src="https://img.shields.io/badge/📧_Email-Colaboremos-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/>
-</a>
+## $ achievements --show
 
-<a href="https://github.com/Wissen01720" target="_blank">
-<img src="https://img.shields.io/badge/💻_GitHub-Sígueme-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
-</a>
-
-</div>
+🏆 **Finalist** — Code Fest Ad Astra 2024 *(Fuerza Aeroespacial Colombiana)*
+🚀 **Participant** — NASA International Space Apps Challenge 2024
 
 ---
 
 <div align="center">
 
-### 🚀 **"CONSTRUYENDO EL FUTURO, UNA LÍNEA DE CÓDIGO A LA VEZ"**
+*"Security is not a product, but a process."* — Bruce Schneier
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-
-**¿Tienes una idea increíble? ¡Hagámosla realidad juntos!**
-
-*Último update: Desarrollando el próximo gran proyecto... 🔥*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=50&fontAlignY=65&animation=twinkling"/>
+![Visitor Count](https://komarev.com/ghpvc/?username=Wissen01720&color=brightgreen&style=flat-square&label=visitors)
 
 </div>
